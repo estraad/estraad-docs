@@ -1,0 +1,5 @@
+---
+id: room
+title: Rooms
+---
+

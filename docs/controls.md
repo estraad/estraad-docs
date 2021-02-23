@@ -1,0 +1,5 @@
+---
+id: controls
+title: Controls
+---
+
