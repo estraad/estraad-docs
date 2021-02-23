@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Estraad Documentation',
   tagline: 'Support and technical documentation for Estraad',
-  url: 'https://estraad.github.io',
+  url: 'https://docs.estraad.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
