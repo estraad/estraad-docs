@@ -1,6 +1,6 @@
 module.exports = {
   someSidebar: {
-    Support: ['nav', 'controls', 'communication'],
+    Support: ['welcome'],
     Features: ['general', 'stickynotes'],
     Technical: ['video', 'room'],
   },
