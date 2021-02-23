@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Estraad Documentation',
   tagline: 'Support and technical documentation for Estraad',
-  url: 'https://docs.estraad.com/',
+  url: 'https://docs.estraad.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -12,7 +12,7 @@ module.exports = {
     navbar: {
       title: 'Estraad Documentation',
       logo: {
-        alt: 'Estraad E Logo',
+        alt: 'Purple letter E in a circle',
         src: 'img/logo.svg',
       },
       items: [
