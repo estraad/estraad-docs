@@ -1,12 +1,12 @@
 module.exports = {
   title: 'Estraad Documentation',
   tagline: 'Support and technical documentation for Estraad',
-  url: 'https://docs.estraad.com',
-  baseUrl: '/',
+  url: 'https://estraad.github.io',
+  baseUrl: '/estraad-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'Estraad', // Usually your GitHub org/user name.
+  organizationName: 'estraad', // Usually your GitHub org/user name.
   projectName: 'estraad-docs', // Usually your repo name.
   themeConfig: {
     navbar: {
