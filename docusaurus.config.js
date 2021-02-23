@@ -10,25 +10,19 @@ module.exports = {
   projectName: 'estraad-docs', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'Estraad Docs',
+      title: 'Estraad Documentation',
       logo: {
         alt: 'Estraad E Logo',
         src: 'img/logo.svg',
       },
       items: [
-        {
-          to: 'docs/',
-          activeBasePath: 'docs',
-          label: 'Documentation',
-          position: 'left',
-        },
       ],
     },
     footer: {
       style: 'dark',
       links: [
         {
-          title: 'More',
+          title: 'Links',
           items: [
             {
               label: 'Homepage',
@@ -54,6 +48,7 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
+          routeBasePath: '/',
           // Please change this to your repo.
           editUrl:
             'https://github.com/estraad/estraad-docs/edit/master/website/',

@@ -5,8 +5,13 @@ sidebar_label: Welcome
 slug: /
 ---
 
-## Technical Support
+:::tip
+
 Contact us at contact@estraad.com if you experience any technical issues.
+
+:::
+
+---
 
 
 ## Requirements
@@ -18,16 +23,19 @@ Estraad 3D Platform works best with the following requirements met. Please check
 - Plug in charger if using laptop / phone
 - Phones have reduced functionality in the 3D world.
 
+--- 
+
 ## Navigation
 ### Movement
 Use your arrow keys or the WASD-keys to move around.
 You can hold SHIFT while moving for a speed boost.
 
-
 ### Looking
 Turn your head by clicking and dragging with the left mouse button.
 If you find rotating with the mouse difficult, you can also use Q and E to rotate 45 degrees left and right respectively.
 
+
+---
 
 ## Communication
 ### Microphone
@@ -38,10 +46,16 @@ When speaking, the avatar’s mouth will move and the users nametag will become 
 
 You can enable and disable your microphone by clicking the microphone button in the middle on the bottom of your screen.
 
+
+
+
+:::note
+
+It is best practice to mute your microphone when not in use. This will reduce unnecessary noise and feedback in the room.
+
+:::
+
 ![The microphone icon in the tooblar](https://github.com/estraad/estraad-docs/blob/master/static/img/toolbar_mic.png?raw=true "Toolbar Microphone Button")
-
-*It is best practice to mute your microphone when not in use. This will reduce unnecessary noise and feedback in the room.*
-
 
 ### Chat
 You can also communicate with others by messages.
