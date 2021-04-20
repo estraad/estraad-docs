@@ -25,6 +25,21 @@ If you are joining a custom event on a URL different from meet.estraad.com, the 
 
 ---
 
+#### I can't hear anything
+
+When setting up your avatar in the entry menu, make sure that it displays properly in the preview.
+If the avatar preview is constantly loading or not displaying your avatar, change your clothes, hair and accessories until the preview shows the avatar again. After this, you can continue and the audio should work.
+
+If the preview loads, make sure your computer settings are okay. Estraad is a normal website, and cannot configure your audio output. Test on other websites and make sure the audio plays there. If the issue is only with Estraad, contact us to troubleshoot your issue.
+
+---
+
+#### My avatar is not changing skin color
+
+In order to change skin color, you need to first select a skin color in the Avatar Creator screen, then select a new clothing. The skin color system will be improved in the future to be more intuitive. The avatar preview will always show how you look inside a room.
+
+---
+
 #### The website is white
 
 Try loading the page using incognito (private) tab. If that does not work, contact support.

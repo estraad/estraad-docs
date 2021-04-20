@@ -1,7 +1,7 @@
 module.exports = {
   someSidebar: {
-    Support: ['welcome', 'faq'],
+    Support: ['welcome', 'faq', 'shortcuts'],
     Tools: ['objects','controls','drawing','stickynotes',],
-    Technical: ['video'],
+    Technical: ['video', 'security'],
   },
 };
