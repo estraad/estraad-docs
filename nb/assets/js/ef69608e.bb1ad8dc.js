@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkestraad_docs=self.webpackChunkestraad_docs||[]).push([[830],{7635:function(a){a.exports=JSON.parse('{"allTagsPath":"/nb/blog/tags","slug":"/nb/blog/tags/hola","name":"hola","count":1,"permalink":"/nb/blog/tags/hola"}')}}]);
