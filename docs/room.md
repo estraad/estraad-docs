@@ -3,8 +3,8 @@ id: room
 title: Rooms
 ---
 
-## Functionality
+## Functionality {#functionality}
 - Pinning objects
 
-## Capacity
+## Capacity {#capacity}
 

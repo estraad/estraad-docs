@@ -5,40 +5,37 @@ sidebar_label: Welcome
 slug: /
 ---
 
-:::tip
+Welcome to the Estraad Documentation website. Here you will find resources on how to use our social 3D platform. If you can't find what you are looking for, please let us know at contact@estraad.com.
 
-Contact us at contact@estraad.com if you experience any technical issues.
-
-:::
 
 ---
 
 
-## Requirements
+## Requirements {#requirements}
 Estraad 3D Platform works best with the following requirements met. Please check that you meet the requirements below before contacting support regarding techincal issues.
 
-- Get the best experience on Estraad using Google Chrome or Firefox.
-- Guest networks (cafe, airport) and some corporate networks may restrict your access
+- Get the best experience on Estraad using Google Chrome.
+- Guest networks (cafe, airport) and some corporate networks may restrict your access.
 - Headset with microphone recommended to reduce noise and echo for other participants.
 - Plug in charger if using laptop / phone
 - Phones have reduced functionality in the 3D world.
 
 --- 
 
-## Navigation
-### Movement
-Use your arrow keys or the WASD-keys to move around.
+## Navigation {#navigation}
+### Movement {#movement}
+Use the ARROW KEYS or the WASD-keys to move around.
 You can hold SHIFT while moving for a speed boost.
 
-### Looking
+### Looking {#looking}
 Turn your head by clicking and dragging with the left mouse button.
 If you find rotating with the mouse difficult, you can also use Q and E to rotate 45 degrees left and right respectively.
 
 
 ---
 
-## Communication
-### Microphone
+## Communication {#communication}
+### Microphone {#microphone}
 Microphone voice communication is the primary form of communication inside a room.
 
 Like in real life, the distance between you and other avatars will affect how well you hear them. Get closer to others to hear them better.
@@ -55,23 +52,16 @@ It is best practice to mute your microphone when not in use. This will reduce un
 
 :::
 
-![The microphone icon in the tooblar](https://github.com/estraad/estraad-docs/blob/master/static/img/toolbar_mic.png?raw=true "Toolbar Microphone Button")
-
-### Chat
+### Chat {#chat}
 You can also communicate with others by messages.
 
 Use the text field in the bottom left corner of the interface (With the placeholder “Chat with the room…”) to write your message. Hit “ENTER” to send the message to the room.
 
-![The raise hand icon in the tooblar](https://github.com/estraad/estraad-docs/blob/master/static/img/chat_example.gif?raw=true "Demonstrating chat functionality")
-
 Your message will appear to everyone in the room for 50 seconds before fading out.
 
 
-### Raise Hand
+### Raise Hand {#raise-hand}
 You can raise your hand to get other peoples attention. Click the Raise Hand button and a hand icon will appear above your characters head.
 
 The hand icon will also show in the user list.
-
-![The raise hand icon in the tooblar](https://github.com/estraad/estraad-docs/blob/master/static/img/toolbar_hand.png?raw=true "Toolbar Raise Hand Button")
-
 

@@ -1,0 +1,18 @@
+{
+  "version.label": {
+    "message": "Neste",
+    "description": "The label for version current"
+  },
+  "sidebar.someSidebar.category.Support": {
+    "message": "Generelt",
+    "description": "The label for category Support in sidebar someSidebar"
+  },
+  "sidebar.someSidebar.category.Tools": {
+    "message": "Verktøy",
+    "description": "The label for category Tools in sidebar someSidebar"
+  },
+  "sidebar.someSidebar.category.Technical": {
+    "message": "Teknisk",
+    "description": "The label for category Technical in sidebar someSidebar"
+  }
+}

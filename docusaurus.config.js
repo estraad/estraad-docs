@@ -8,7 +8,13 @@ module.exports = {
   favicon: 'img/favicon.ico',
   organizationName: 'estraad', // Usually your GitHub org/user name.
   projectName: 'estraad-docs', // Usually your repo name.
+  favicon: '/img/favicon.png',
+  i18n: {
+    defaultLocale: 'en',
+    locales: ['en', 'nb', 'de'],
+  },
   themeConfig: {
+    metadata: [{name: 'keywords', content: 'vr, metaverse, documentation, support'}],
     navbar: {
       title: 'Estraad Documentation',
       logo: {
@@ -16,6 +22,10 @@ module.exports = {
         src: 'img/logo.svg',
       },
       items: [
+        {
+          type: 'localeDropdown',
+          position: 'right',
+        },
       ],
     },
     footer: {
@@ -50,8 +60,6 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/',
           // Please change this to your repo.
-          editUrl:
-            'https://github.com/estraad/estraad-docs/edit/master/website/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

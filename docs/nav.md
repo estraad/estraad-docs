@@ -6,27 +6,27 @@ sidebar_label: Navigation
 
 You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
 
-## Markdown Syntax
+## Markdown Syntax {#markdown-syntax}
 
 To serve as an example page when styling markdown based Docusaurus sites.
 
-## Headers
+## Headers {#headers}
 
 # H1 - Create the best documentation
 
-## H2 - Create the best documentation
+## H2 - Create the best documentation {#h2---create-the-best-documentation}
 
-### H3 - Create the best documentation
+### H3 - Create the best documentation {#h3---create-the-best-documentation}
 
-#### H4 - Create the best documentation
+#### H4 - Create the best documentation {#h4---create-the-best-documentation}
 
-##### H5 - Create the best documentation
+##### H5 - Create the best documentation {#h5---create-the-best-documentation}
 
-###### H6 - Create the best documentation
+###### H6 - Create the best documentation {#h6---create-the-best-documentation}
 
 ---
 
-## Emphasis
+## Emphasis {#emphasis}
 
 Emphasis, aka italics, with *asterisks* or _underscores_.
 
@@ -38,7 +38,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 ---
 
-## Lists
+## Lists {#lists}
 
 1. First ordered list item
 1. Another item
@@ -55,7 +55,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 ---
 
-## Links
+## Links {#links}
 
 [I'm an inline-style link](https://www.google.com/)
 
@@ -77,7 +77,7 @@ Some text to show that the reference links can follow later.
 
 ---
 
-## Images
+## Images {#images}
 
 Here's our logo (hover to see the title text):
 
@@ -93,7 +93,7 @@ Images from any folder can be used by providing path to file. Path should be rel
 
 ---
 
-## Code
+## Code {#code}
 
 ```javascript
 var s = 'JavaScript syntax highlighting';
@@ -118,7 +118,7 @@ function highlightMe() {
 
 ---
 
-## Tables
+## Tables {#tables}
 
 Colons can be used to align columns.
 
@@ -137,7 +137,7 @@ There must be at least 3 dashes separating each header cell. The outer pipes (|)
 
 ---
 
-## Blockquotes
+## Blockquotes {#blockquotes}
 
 > Blockquotes are very handy in email to emulate reply text. This line is part of the same quote.
 
@@ -147,7 +147,7 @@ Quote break.
 
 ---
 
-## Inline HTML
+## Inline HTML {#inline-html}
 
 <dl>
   <dt>Definition list</dt>
@@ -159,7 +159,7 @@ Quote break.
 
 ---
 
-## Line Breaks
+## Line Breaks {#line-breaks}
 
 Here's a line for us to start with.
 
@@ -169,7 +169,7 @@ This line is also a separate paragraph, but... This line is only separated by a 
 
 ---
 
-## Admonitions
+## Admonitions {#admonitions}
 
 :::note
 
