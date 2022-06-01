@@ -23,5 +23,5 @@ Haftnotizen unterstützen die meisten Zeichen – sogar Emojis.
 
 ## Haftnotizen bearbeiten
 
-Wenn eine Haftnotiz erstellt wird und im Raum erscheint, wird sie als Bild betrachtet und kann wie andere Objekte in der 3D-Umgebung bearbeitet werden. Bitte lesen Sie [Objekte bearbeiten] (controls.md) für die Dokumentation zur Objektbearbeitung.
+Wenn eine Haftnotiz erstellt wird und im Raum erscheint, wird sie als Bild betrachtet und kann wie andere Objekte in der 3D-Umgebung bearbeitet werden. Bitte lesen Sie [Objekte bearbeiten](controls.md) für die Dokumentation zur Objektbearbeitung.
 

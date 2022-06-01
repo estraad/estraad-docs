@@ -16,7 +16,7 @@
     "description": "The label of footer link with label=GitHub linking to https://github.com/estraad/"
   },
   "copyright": {
-    "message": "Copyright © 2022 Estraad / Garnes Data AS. Erstellt mit Docusaurus.",
+    "message": "Copyright © 2022 Estraad / Garnes Data AS. Laget med Docusaurus.",
     "description": "The footer copyright"
   }
 }

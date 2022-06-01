@@ -8,30 +8,30 @@ Wenn der Raum, in dem Sie sich befinden, den Zeichenmodus zulässt, können Sie 
 
 Um den Zeichenmodus zu aktivieren, drücken Sie die Zeichenmodus-Schaltfläche (mit einem Bleistift markiert) in der Symbolleiste am unteren Rand der Benutzeroberfläche.
 
-Sobald Sie den Zeichenmodus aktiviert haben, können Sie auf Dinge zeichnen. Drücken Sie die Zeichenmodus-Taste erneut, um den Zeichenmodus zu deaktivieren und zum normalen Mauszeiger zurückzukehren.
+Sobald Sie den Zeichenmodus aktiviert haben, können Sie zeichnen. Drücken Sie die Zeichenmodus-Taste erneut, um den Zeichenmodus zu deaktivieren und zum normalen Mauszeiger zurückzukehren.
 
 ---
 
 
-Here are some shortcuts that change the way Drawing Mode works:
-Hier sind einige nützliche Tastenkombinationen im Zeichenmodus:
+
+Hier sind einige nützliche Tastenkombinationen für den Zeichenmodus:
 
 | Shortcut | Beschreibung |
 | ----------- | ----------- |
 | SHIFT+E | Zur nächsten Farbe wechseln |
-| SHIFT +Q | Zur vorherigen Farbe wechseln |
-| SHIFT+Mausrad | Ändern Sie die Stiftbreite für breitere oder schmalere Linien |
+| SHIFT+Q | Zur vorherigen Farbe wechseln |
+| SHIFT+Mausrad | Ändert die Stiftbreite für breitere oder schmalere Linien |
 | CMD+Z / CTRL+Z | Letzte Linie rückgängig machen |
-| Rechter klick | Zeichenmodus abbrechen und zum normalen Mauszeiger zurückkehren |
+| Rechtsklick | Zeichenmodus abbrechen und zum normalen Mauszeiger zurückkehren |
 | Escape | Zeichenmodus abbrechen und zum normalen Mauszeiger zurückkehren |
 
 
 
-:::tip Tips
+:::tip Tip
 
-Sie können Ihr Kunstwerk in ein normales Objekt verwandeln, das skaliert, gedreht und möglicherweise gesperrt werden kann, um dauerhaft im Raum zu bleiben.
+Sie können Ihre Zeichnung in ein normales Objekt verwandeln, das skaliert, gedreht und möglicherweise gesperrt werden kann, um dauerhaft im Raum zu bleiben.
 
-Halten Sie die LEERTASTE gedrückt und halten Sie den Mauszeiger über die Zeichenlinien, um das Zeichenmenü aufzurufen. Klicken Sie dann auf die Schaltfläche „Erstellen“, um das Kunstwerk in ein 3D-Modell umzuwandeln. Dann können Sie das Kunstwerk wie ein normales 3D-Objekt im Raum behandeln.
+Halten Sie die LEERTASTE gedrückt und halten Sie den Mauszeiger über die Zeichenlinien, um das Menü aufzurufen. Klicken Sie dann auf die Schaltfläche „Erstellen“, um die Zeichnung in ein 3D-Modell umzuwandeln. Danach können Sie die Zeichnung wie ein normales 3D-Objekt im Raum behandeln.
 
 :::
 

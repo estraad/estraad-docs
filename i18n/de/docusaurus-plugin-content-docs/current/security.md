@@ -46,18 +46,18 @@ Alle Daten werden bei der Übertragung per TLS verschlüsselt.
 
 Für ein Echtzeiterlebnis, das mit anderen Benutzern geteilt wird, werden die folgenden Komponenten mit allen Benutzern in einem Raum synchronisiert:
 
-| Felt         | Type          | Kontekst  |  3D-Miljø  |  2D-Menyer  | 
+| Feld         | Typ          | Kontext  |  3D-Umgebung  |  2D-Menü  | 
 | ------------- | ------------- | -------- | ---------------- |  --------- |
-| avatarSrc     | Zeiger auf 3D-Modell | Andere können Ihren Avatar sehen   | Show model | Brukes ikke |
-| hairSrc       | Zeiger auf 3D-Modell |     | Andere können die Frisur Ihres Avatars sehen | Brukes ikke | 
-| accessorySrc  | Zeiger auf 3D-Modell |     | Andere können das Zubehör für Ihren Avatar sehen | Brukes ikke |
-| bodyAccessorySrc  | Peker til 3D-modell |  | Show model | Not used |
-| handRaised  | Boolsk Variabel(sant/usant)   | Lassen Sie andere Benutzer wissen, dass Sie eine Frage haben | Symbol über dem Avatar | Symbol neben dem Namen in der Namensliste | 
-| muted  | Boolsk Variabel(sant/usant)  | Lassen Sie andere wissen, dass Ihr Mikrofon ein-/ausgeschaltet ist | Beginnt und stoppt die Animation der Münder der Avatare | Symbol neben dem Namen in der Benutzerliste | 
-| displayName  | Tekst    | Teilen Sie anderen Benutzern Ihren Namen mit | Zeigen Sie den Namen Ihres Avatars an | Namen in der Benutzerliste und im Chatprotokoll | 
+| avatarSrc     | Zeiger auf 3D-Modell | Andere können Ihren Avatar sehen   | Andere können Ihren Avatar sehen | Wird nicht verwendet |
+| hairSrc       | Zeiger auf 3D-Modell |     | Andere können die Frisur Ihres Avatars sehen | Wird nicht verwendet | 
+| accessorySrc  | Zeiger auf 3D-Modell |     | Andere können das Zubehör für Ihren Avatar sehen | Wird nicht verwendet |
+| bodyAccessorySrc  | Peker til 3D-modell |  | Andere können das Modell sehen | Wird nicht verwendet |
+| handRaised  | Boolsk Variabel(true/false)   | Lassen Sie andere Benutzer wissen, dass Sie eine Frage haben | Symbol über dem Avatar | Symbol neben dem Namen in der Namensliste | 
+| muted  | Boolsk Variabel(true/false)  | Lassen Sie andere wissen, dass Ihr Mikrofon ein-/ausgeschaltet ist | Beginnt und stoppt die Animation der Münder der Avatare | Symbol neben dem Namen in der Benutzerliste | 
+| displayName  | Text    | Teilen Sie anderen Benutzern Ihren Namen mit | Zeigen Sie den Namen Ihres Avatars an | Namen in der Benutzerliste und im Chatprotokoll | 
 | companyName  | Text (Optional)    | Informieren Sie andere über den Namen Ihres Unternehmens / ihrer Organisation | Erscheint über Ihrem Avatar | Erscheint im Untermenü der Benutzerliste | 
-| identityName  | Text    | Wird von einem Administrator festgelegt, um bestimmte Benutzer zu identifizieren (z. B. Titel ("Entwickler") oder Rolle ("Dozent")) | Text über dem Avatar anzeigen | Not used |
-| isOwner  | Boolsk Verdi (sant/usant) | Wird intern für Administratoren verwendet | Ikke i bruk | Ikke i bruk |
+| identityName  | Text    | Wird von einem Administrator festgelegt, um bestimmte Benutzer zu identifizieren (z. B. Titel ("Entwickler") oder Rolle ("Dozent")) | Text über dem Avatar anzeigen | Wird nicht verwendet |
+| isOwner  | Boolsk Wert (true/false) | Wird intern für Administratoren verwendet | Wird nicht verwendet | Wird nicht verwendet |
 
 
 

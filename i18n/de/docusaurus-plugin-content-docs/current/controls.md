@@ -5,7 +5,7 @@ sidebar_label: Objekte bearbeiten
 ---
 
 Objekte können manipuliert und verändert werden, indem sie beispielsweise skaliert, gedreht oder verschoben werden.
-Verwenden Sie zum Bearbeiten eines Objekts die Steuerelemente, die angezeigt werden, wenn Sie die Leertaste gedrückt halten, während Sie den Mauszeiger über dem Objekt halten, das Sie bearbeiten möchten.
+Verwenden Sie zum Bearbeiten eines Objektes die Steuerelemente, die angezeigt werden, wenn Sie die Leertaste gedrückt halten, während Sie den Mauszeiger über das Objekt halten, welches Sie bearbeiten möchten.
 
 ![img](../static/img/object_menu.png 'Image of the object menu')
 
@@ -18,11 +18,11 @@ Halten Sie die LEERTASTE gedrückt, während Sie den Mauszeiger über das Objekt
 
 ### Rotieren
 
-Halten Sie die LEERTASTE gedrückt, während Sie den Mauszeiger über das Objekt halten, das Sie drehen möchten. Halten Sie die Schaltfläche "Drehen" gedrückt und bewegen Sie den Mauszeiger in die Richtung, in die Sie das Objekt drehen möchten.
+Halten Sie die LEERTASTE gedrückt, während Sie den Mauszeiger über das Objekt halten, das Sie drehen möchten. Halten Sie die Schaltfläche "Rotieren" gedrückt und bewegen Sie den Mauszeiger in die Richtung, in die Sie das Objekt drehen möchten.
 
-:::note Ekstra
+:::note Tip
 
-Halten Sie die Leetaste gedrückt, während Sie drehen, um eine präzise Steuerung (ohne „ruckeln“) zu erhalten.
+Halten Sie die Leertaste gedrückt, während Sie drehen, um eine präzise Steuerung (ohne „ruckeln“) zu erhalten.
 
 :::
 
@@ -33,5 +33,5 @@ Sie müssen Objekte im Raum sperren, damit sie dauerhaft im Raum verbleiben. Wen
 Halte die LEERTASTE gedrückt und drücke im Gegenstandsmenü auf „Sperren“ / „Entsperren“, um den Gegenstand zu sperren und zu entsperren.
 
 Das Sperren eines Objekts bewirkt zwei wichtige Dinge:
-- Es verhindert, dass Sie oder andere Nutzer das Objekt verschieben oder verändern.
-- Es bewirkt, dass das Objekt dauerhaft im Raum bleibt, auch wenn Sie den Raum verlassen (z. B. durch Schließen des Browsers oder Wechseln in einen anderen Raum).
+- Es verhindert, dass Sie oder andere Nutzer das Objekt aus Versehen verschieben oder verändern.
+- Es bewirkt, dass das Objekt dauerhaft im Raum bleibt, auch wenn Sie den Raum verlassen (z. B. durch Schließen des Browsers oder den Wechsel in einen anderen Raum).
